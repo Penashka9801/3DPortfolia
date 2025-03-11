@@ -28,7 +28,7 @@ import {
   export const navLinks = [
     {
       id: "about",
-      title: "Ozim barada",
+      title: "O себе",
     },
     {
       id: "work",
